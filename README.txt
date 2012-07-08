@@ -1,0 +1,1 @@
+This is an Attendence Management App for Android using GSSLib.
